@@ -2,6 +2,7 @@
 
 # _UniversoStarWarsApi_
 ## _Consultar a la Api de StarWars y Almacenar la información en una BD local._
+## _Para lo cual se utiliza el Framework Spring
 
 ## _Objetivos._
 - ### Crear una conexión con la Api de Star Wars.
