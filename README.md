@@ -1,8 +1,8 @@
 # UniversoStarWarsApi
 
-##Consultar a la Api de StarWars y Almacenar la información en una BD local
+## Consultar a la Api de StarWars y Almacenar la información en una BD local
 
-##Objetivos.
+## Objetivos.
 
 ### 1.- Crear una conexión con la Api de Star Wars.
 
@@ -24,7 +24,7 @@
 
 ### 4.-Controller en Java: @Controller AnimalController Inyectamos el service -> @Autowired de PersonajeService.
 
-##Endpoints.
+## Endpoints.
 
 ### GET /personaje/{id}.
 Busca un personaje por ID, y muestra la información.    
