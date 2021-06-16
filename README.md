@@ -27,14 +27,14 @@
 ## Endpoints.
 
 ### GET /personaje/{id}.
-  Busca un personaje por ID, y muestra la información.    
+  *Busca un personaje por ID, y muestra la información.    
 ### GET /personaje/id/guardar.
-  Lee la Api y Guarda el personaje en la BD Local, (Siempre y cuando este no se encuentre ya en esta, sino lo actualiza).
+  *Lee la Api y Guarda el personaje en la BD Local, (Siempre y cuando este no se encuentre ya en esta, sino lo actualiza).
 ### GET personajeAPI/{id}/nombre.
-  Busca y muestra toda la información del personaje, la busquedad se realiza por (ID).
+  *Busca y muestra toda la información del personaje, la busquedad se realiza por (ID).
   
   
-  ##Backend, Ada Itw 2021
+  ## Backend, Ada Itw 2021
 
 
 
